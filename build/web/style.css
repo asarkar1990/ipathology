@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url(img/masterbackground.jpg) repeat;
+   
+    
+}
+#header{      
+    text-align: center;
+    display: block;
+ }
+#logo{
+    height:2em;
+    width: 25%;  
+    min-width: 1em;
+    float: left;
+    font-size: 2.5em;
+    border-bottom: 2px solid white;
+    background: #104CA7;
+
+}
+#banner{
+    height: 2em;
+    width: 75%;
+    float: right;
+    font-size: 2.5em;
+    border-bottom: 2px solid white;   
+    background: #104CA7;
+  
+  }
+
+#chktest{
+    float: right;
+    
+}
+#login{
+    float: right;
+    
+    
+}
+#bigwrapper{
+  
+    font-size:100%;
+    max-width: 1050px;    
+    margin: 10px auto;  
+    border: 2px solid #34CBFA;
+    color: white;    
+    display: block;
+    height: 640px;
+  
+}
+
+
+#content{
+    float: left;
+    background: #ccc;
+    width: 65%;
+    font-size:1em; 
+    height: 30em;
+    padding-top: 5px;
+     background: url(img/masterbackground.jpg) repeat;
+
+}
+
+#login{
+    margin-right:.5em;
+    float: right;
+    width: 30%;
+    font-size:1em; 
+     height: 30em;
+     margin-bottom: .5em;
+    background: url(img/login.jpg) repeat;
+  
+}
+#the-footer{  
+    padding-top: 15px;
+    text-align: center;
+    position: relative;
+    float: right;
+    width: 100%;
+    bottom: 1px;
+    background: black;
+    height: 3.5em;
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+}
+

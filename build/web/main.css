@@ -1,0 +1,120 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15 Dec, 2014, 9:39:35 AM
+    Author     : arindam
+*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html,body{
+    height: 100%;
+    overflow: hidden;
+}
+body{
+    background: url(img/masterbackground.jpg) repeat;
+   
+    
+}
+#header{  
+    text-align: center;
+    background: #104CA7;
+    position: relative;
+   
+   
+ }
+#logo{
+    height:2em;
+    width: 25%;  
+    min-width: 1em;
+    float: left;
+    font-size: 2.5em;
+    border-bottom: 2px solid white;
+     background: #104CA7;
+  
+   
+
+}
+#banner{
+    
+    height: 2em;
+    width: 75%;
+    float: left;
+    font-size: 2.5em;
+     border-bottom: 2px solid white;
+     background: #104CA7;
+
+   
+  
+  }
+
+
+
+#bigwrapper{  
+    font-size:100%;
+    max-width: 1050px;    
+    margin: 10px auto;  
+    border:  2px solid #34CBFA;
+    color: white;    
+    display: block;
+   
+   
+   
+  
+}
+nav{
+    float: left;
+    width:250px;  
+    height: 509px;   
+    position: fixed;
+    top:94px;
+    border-left: 2px solid #34CBFA;
+    background: gray;;
+    
+}
+logo{
+    margin: 0;
+    padding: 0;
+   
+    position: fixed;
+    left:0;
+}
+
+
+
+#content{
+    float: right;
+    width: 75.8%;  
+    height: 509px;   
+    border-right:1px solid #34CBFA;
+   
+  
+    
+    
+    
+    
+
+}
+
+
+footer{    
+    border-top: 1px solid aqua;
+    width:1050px;
+    position:fixed;
+    float: left; 
+    background-color: black;
+    text-align: center;
+    height: 50px;
+    bottom: 0;  
+   
+    padding-top: 2%;
+    
+   
+}
+
+
