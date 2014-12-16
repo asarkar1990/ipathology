@@ -43,7 +43,7 @@ $('#cssmenu > ul > li > a').click(function() {
     <body> 
         <div id="bigwrapper">
             <header id="header">
-                <div id="logo"><img src="http://coastalpathlab.com/wp-content/uploads/2013/12/Coastal-Pathology-Banner-1-639x312.jpg" alt="logo" width="240px;" height="80px;"/></div>
+                <div id="logo"><img src="img/logo.jpg" alt="logo" width="240px;" height="80px;"/></div>
                 <div id="banner">The Modern Pathology </div>
             </header>  
             <section>
