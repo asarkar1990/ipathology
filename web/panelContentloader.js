@@ -10,7 +10,8 @@
          
 });
 $(document).ready(function(){
-    $("a").click(function (){
+    $("#btn").click(function (){
+        alert("hello hello");
         
         
     });

@@ -64,7 +64,7 @@ $('#cssmenu > ul > li > a').click(function() {
          <li class='last'><a href='#'><span>Contact</span></a></li>
       </ul>
    </li>
-   <li class='last'><a href='#'><span>Contact</span></a></li>
+   <li class='last' id="btn"><a href='#'><span>Contact</span></a></li>
 </ul>
 </div>
                     
