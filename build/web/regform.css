@@ -8,3 +8,22 @@ and open the template in the editor.
     Author     : arindam
 */
 
+#dvform{
+  position: relative;
+ 
+  padding-top: 2%;
+    
+    
+}
+table{
+    padding: 12%;
+    padding-top: 2%;
+    margin: auto;
+    border: 1px solid white;
+    
+}
+th{
+    padding: 2px;
+    font-size:2em;
+    
+}
