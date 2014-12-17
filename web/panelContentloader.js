@@ -10,10 +10,10 @@
          
 });
 $(document).ready(function(){
-    $("#btn").click(function (){
-        alert("hello hello");
-        
-        
+    $("#btnpreg").click(function (){
+        $("#content").load('preg.jsp'); 
+       
+         
     });
 });
 

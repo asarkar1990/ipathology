@@ -57,20 +57,16 @@ body{
 
 #bigwrapper{  
     font-size:100%;
-    max-width: 1050px;    
+    max-width: 1250px;    
     margin: 10px auto;  
     border:  2px solid #34CBFA;
     color: white;    
-    display: block;
-   
-   
-   
-  
+    display: block; 
 }
 nav{
     float: left;
-    width:250px;  
-    height: 509px;   
+    width:200px;  
+    height: 550px;   
     position: fixed;
     top:94px;
     border-left: 2px solid #34CBFA;
@@ -79,8 +75,7 @@ nav{
 }
 logo{
     margin: 0;
-    padding: 0;
-   
+    padding: 0;   
     position: fixed;
     left:0;
 }
@@ -89,29 +84,21 @@ logo{
 
 #content{
     float: right;
-    width: 75.8%;  
-    height: 509px;   
-    border-right:1px solid #34CBFA;
-   
-  
-    
-    
-    
-    
-
+    width: 83.5%;  
+    height: 550px;   
+    border-right: 1px solid #34CBFA;   
 }
 
 
 footer{    
-    border-top: 1px solid aqua;
-    width:1050px;
+    border-top: 1px solid #34CBFA;
+    width:1250px;
     position:fixed;
     float: left; 
     background-color: black;
     text-align: center;
-    height: 50px;
+    height: 10px;
     bottom: 0;  
-   
     padding-top: 2%;
     
    

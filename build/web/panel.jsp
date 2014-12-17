@@ -10,7 +10,7 @@
     <head>
         <title>Welocome: Modern Path </title>
         <link type="text/css" rel="stylesheet" href="main.css"/> 
-       
+        <link type="text/css" rel="stylesheet" href="regform.css"/>      
         <script lang="en" type="text/javascript" src="jquary.js"></script>
         <script lang="en" type="text/javascript" src="panelContentloader.js"></script>
         <link type="text/css" rel="stylesheet" href="menu.css"/>
@@ -50,12 +50,12 @@ $('#cssmenu > ul > li > a').click(function() {
                 <nav>
                     <div id='cssmenu'>
 <ul>
-   <li class='active'><a href='panel.jsp'><span>Deskboard</span></a></li>
-   <li class='has-sub'><a href='#'><span>Home</span></a>
+   <li class='active'><a href='panel.jsp'><span>Deshboard</span></a></li>
+   <li class='has-sub'><a href='#'><span>Patient</span></a>
       <ul>
-         <li><a href='#'><span>Product 1</span></a></li>
-         <li><a href='#'><span>Product 2</span></a></li>
-         <li class='last'><a href='#'><span>Product 3</span></a></li>
+         <li id="#"><a href='#'><span>Registration</span></a></li>
+         <li><a href='#'><span>Search</span></a></li>
+         <li class='last'><a href='#'><span>contact patient</span></a></li>
       </ul>
    </li>
    <li class='has-sub'><a href='#'><span>About</span></a>

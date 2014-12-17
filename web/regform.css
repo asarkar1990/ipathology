@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17 Dec, 2014, 5:37:57 PM
+    Author     : arindam
+*/
+
+.leftclm{
+    text-align: center;
+    border: 2px solid gray;
+    width: 30%; 
+    height: 20px;
+   
+    
+}
+.rightclm{
+     text-align: center;
+    border: 2px solid gray;
+    width: 40%; 
+    height: 20px;
+       
+   
+    
+}
+.dvrowodd{
+    padding: 5px;
+    height:20px;    
+    width: 96%;
+    margin: .1%;   
+    background: #B0C4DE;
+    border:  2px solid white;
+}
+   
+
+.dvroweven{   
+    padding: 5px;
+    height:20px;    
+    width: 96%;
+    margin: .1%;   
+    background: #87CEFA;
+    border: 2px solid gray;
+    
+}
+#regcontainer{     
+    font-size: 1.2em;
+    color:black;
+    padding-left: 3%;
+    padding-top: 4%;
+    
+}
