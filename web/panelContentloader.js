@@ -10,7 +10,8 @@
          
 });
 $(document).ready(function(){
-    $("#btnpreg").click(function (){
+    $("#btnreg").click(function (){
+     
         $("#content").load('preg.jsp'); 
        
          

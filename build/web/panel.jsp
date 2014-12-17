@@ -53,7 +53,7 @@ $('#cssmenu > ul > li > a').click(function() {
    <li class='active'><a href='panel.jsp'><span>Deshboard</span></a></li>
    <li class='has-sub'><a href='#'><span>Patient</span></a>
       <ul>
-         <li id="#"><a href='#'><span>Registration</span></a></li>
+          <li id="btnreg"><a href='#'><span>Registration</span></a></li>
          <li><a href='#'><span>Search</span></a></li>
          <li class='last'><a href='#'><span>contact patient</span></a></li>
       </ul>

@@ -6,33 +6,8 @@
     <body>
        
             <form>
-            <div id="regcontainer">
-                <div class="dvrowodd">
-                    <div class="leftclm"><span>Patient name:</span></div>
-                      
-                    
-                </div>
-                 <div class="dvroweven">
-                    <div class="leftclm"><span>left</span></div>
-                      
-                    
-                </div>
-                 <div class="dvrowodd">
-                    <div class="leftclm"><span>left</span></div>
-                      
-                    
-                </div>
-                 <div class="dvroweven">
-                    <div class="leftclm"><span>left</span></div>
-                      
-                    
-                </div>
-                 <div class="dvrowodd">
-                    <div class="leftclm"><span>left</span></div>
-                      
-                    
-                </div>
-            </div>
+            
+               
             </form>
            
       
