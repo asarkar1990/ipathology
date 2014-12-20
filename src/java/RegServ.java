@@ -34,7 +34,9 @@ public class RegServ extends HttpServlet {
         response.setContentType("text/html;charset=UTF-8");
         PrintWriter out = response.getWriter();
         try {
-            String Clinic_id = "XY";
+            
+            
+            String Clinic_id = "XY" ;
             String name = request.getParameter("p_name");
             String age = request.getParameter("p_age");
             String contact_no = request.getParameter("p_contact");
